@@ -18,15 +18,13 @@
   "author": "Your Name",
   "license": "MIT",
   "dependencies": {
-    "@components/ui/button": "^1.0.0",
-    "@components/ui/card": "^1.0.0",
-    "@components/ui/input": "^1.0.0",
-    "@components/ui/progress": "^1.0.0",
-    "@components/ui/tabs": "^1.0.0",
-    "lucide-react": "^0.1.0",
+    "@mui/material": "^5.0.0",
+    "@emotion/react": "^11.0.0",
+    "@emotion/styled": "^11.0.0",
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
-    "react-scripts": "5.0.0"
+    "react-scripts": "5.0.0",
+    "lucide-react": "^0.1.0"
   },
   "devDependencies": {
     "@types/react": "^18.0.0",
